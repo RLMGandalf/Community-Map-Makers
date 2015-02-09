@@ -17,7 +17,6 @@
         "coui://ui/mods/CMP/maplist.js"
     ],
     "id": "CMP",
-    "icon": "http://i.imgur.com/4oiyIbU.png",
     "priority": 500,
     "enabled": true,
     "dependencies": [
