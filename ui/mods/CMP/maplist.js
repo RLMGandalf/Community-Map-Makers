@@ -44,5 +44,6 @@ cShareSystems.load_pas("Community Map Pack", [
 	"coui://ui/mods/CMP/systems/the_t3mple_3v3.pas",
 	"coui://ui/mods/CMP/systems/Violets_Violence.pas",
 	"coui://ui/mods/CMP/systems/red_line.pas",
-	"coui://ui/mods/CMP/systems/rozu.pas"
+	"coui://ui/mods/CMP/systems/rozu.pas",
+	"coui://ui/mods/CMP/systems/exodus_system.pas"
 ]);
