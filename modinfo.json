@@ -1,0 +1,26 @@
+{
+    "context": "client",
+    "identifier": "Community_Map_Pack",
+    "display_name": "Community Map Pack",
+    "description": "High Quality Maps from the PA Mapping community",
+    "author": "Community Map Makers",
+    "version": "1.0",
+    "build": "77725",
+    "date": "2015/02/09",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/community-map-pack.67523/",
+    "category": [
+        "ui",
+		"maps"
+    ],
+    "load_planet": [
+        "coui://ui/mods/CMP/maplist.js"
+    ],
+    "id": "CMP",
+    "icon": "http://i.imgur.com/4oiyIbU.png",
+    "priority": 500,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ]
+}
