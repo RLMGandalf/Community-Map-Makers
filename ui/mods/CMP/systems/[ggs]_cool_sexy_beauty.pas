@@ -1,6 +1,6 @@
 {
     "name": "[GGS] Cool Sexy Beauty",
-	"creator": "Yurigasaki",
+	"creator": "Gandalf",
 	"version": "1",
 	"date": "2015/01/12",
 	"description": "Everyone spawns around the Stonehenge and battles over the very limited metal around the map",

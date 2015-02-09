@@ -1,13 +1,9 @@
 {
     "name": "[GGS] Wall of Extinction",
-	"creator": "Yurigasaki",
+	"creator": "Gandalf",
 	"version": "1",
 	"date": "2015/01/25",
-	"description": "Gowl Gowl Elodea likes Neko's",
-    "players": [
-            8,
-            8
-    ],
+	"description": "8 spawns, Gowl Gowl Elodea likes Neko's",
     "planets": [
         {
             "name": "Yuri Kuma!",

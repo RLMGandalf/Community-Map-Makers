@@ -1,14 +1,10 @@
 {
     "name": "Kingdoms Collide",
-    "creator" : "[RLM]Gandalf",
+    "creator" : "Gandalf",
     "version" : "1.0",
     "date" : "2015/01/25",
-    "description" : "Giant planet meant for expansion and proxy heavy 1v1's or 2v2's",
+    "description" : "4 Spawns, Giant planet meant for expansion and proxy heavy 1v1's or 2v2's",
     "note" : "made for Cola_Colin",
-    "players": [
-        2,
-        4
-    ],
     "planets": [
         {
             "name": "Colins Revenge",

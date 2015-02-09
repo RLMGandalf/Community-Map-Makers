@@ -1,5 +1,9 @@
 {
     "name": "Prof X",
+	"creator": "Gandalf",
+	"version": "1",
+	"date": "2015/02/08",
+	"description": "2v2",
     "planets": [
         {
             "name": "X Man V.1",

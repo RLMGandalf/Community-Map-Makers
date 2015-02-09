@@ -1,14 +1,10 @@
 {
     "name": "Spawn Wars Team",
-    "creator" : "[RLM]Gandalf",
+    "creator" : "Gandalf",
     "version" : "1.0",
     "date" : "2015/01/25",
     "description" : "Everyone spawns apart with only your start metal points to keep you afloat until your team can liberate metal spots from the enemies",
     "note" : "Spawn Wars concept",
-    "players": [
-        8,
-        8
-    ],
     "planets": [
         {
             "name": "Guitarmans Hoedown :)",

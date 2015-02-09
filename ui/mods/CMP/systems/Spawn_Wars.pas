@@ -1,14 +1,10 @@
 {
     "name": "Spawn Wars FFA",
-    "creator" : "[RLM]Gandalf",
+    "creator" : "Gandalf",
     "version" : "1.0",
     "date" : "2015/01/25",
     "description" : "Everyone Spawns with there start metal only with no expansion, you must kill other players to get more metal spots",
     "note" : "Spawn Wars Concept",
-    "players": [
-        8,
-        8
-    ],
     "planets": [
         {
             "name": "Reptar",

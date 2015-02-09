@@ -1,5 +1,9 @@
 {
     "name": "Team Arena",
+	"creator": "Gandalf",
+	"version": "1",
+	"date": "2015/02/01",
+	"description": "Large Arena for 3v3-5v5 Shared Armies",
     "planets": [
         {
             "name": "Team Arena GMaps v.12",

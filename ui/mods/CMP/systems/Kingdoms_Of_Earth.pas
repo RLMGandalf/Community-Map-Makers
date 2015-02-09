@@ -1,14 +1,10 @@
 {
     "name": "Kingdoms of Earth",
-    "creator" : "[RLM]Gandalf",
+    "creator" : "Gandalf",
     "version" : "1.0",
     "date" : "2015/01/25",
     "description" : "10 player FFA meant for Dynamic Alliances",
     "note" : "Based off of Broken Alliances from wc3",
-    "players": [
-        10,
-        10
-    ],
     "planets": [
         {
             "name": "Kingdom War Alpha",

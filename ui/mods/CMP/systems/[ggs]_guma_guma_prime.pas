@@ -1,6 +1,6 @@
 {
     "name": "GUMA GUMA PRIME",
-	"creator": "Yurigasaki",
+	"creator": "Gandalf",
 	"version": "1",
 	"date": "2015/01/25",
 	"description": "Let the strongest Kuma eat the humans! gowl gowl",

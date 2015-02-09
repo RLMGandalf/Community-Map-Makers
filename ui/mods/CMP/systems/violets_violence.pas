@@ -3,11 +3,7 @@
 	"creator": "Gandalf",
 	"version": "1",
 	"date": "2015/02/01",
-	"description": "Fins Revenge PA Version in my style",
-    "players": [
-            2,
-            8
-    ],
+	"description": "4 spawns, 2v2v2v2, 4v4, 2v2, Fins Revenge PA Version in my style",
     "planets": [
         {
             "name": "Taco Tuesday",

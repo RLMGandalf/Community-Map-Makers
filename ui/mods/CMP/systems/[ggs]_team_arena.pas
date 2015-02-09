@@ -1,6 +1,6 @@
 {
     "name": "[GGS] Team Arena",
-	"creator": "Yurigasaki",
+	"creator": "Gandalf",
 	"version": "1",
 	"date": "2015/01/12",
 	"description": "One Spawn for each team, Must be played with 2 Armies! Shared Economy",

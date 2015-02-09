@@ -1,5 +1,9 @@
 {
     "name": "Canyon Wars",
+	"creator": "Gandalf",
+	"version": "1",
+	"date": "2015/02/08",
+	"description": "8 Player FFA",
     "planets": [
         {
             "name": "Island hop",

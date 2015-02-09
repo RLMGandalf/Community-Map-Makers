@@ -1,5 +1,9 @@
 {
-    "name": "1v1 Arena",
+    "name": "Arena",
+	"creator": "Gandalf",
+	"version": "1",
+	"date": "2015/02/08",
+	"description": "Small Arena for 1v1-5v5 shared armies",
     "planets": [
         {
             "name": "Snow Arena",

@@ -1,13 +1,9 @@
 {
     "name": "[GGS] Secrets",
-	"creator": "Yurigasaki",
+	"creator": "Gandalf",
 	"version": "1",
 	"date": "2015/01/25",
-	"description": "Dirty Little Secrets",
-    "players": [
-            2,
-            4
-    ],
+	"description": " 4 Spawns, Dirty Little Secrets",
     "planets": [
         {
             "name": "Behind Closed Doors",

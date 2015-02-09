@@ -3,11 +3,7 @@
 	"creator": "Gandalf",
 	"version": "1",
 	"date": "2015/02/01",
-	"description": "Setons Clutch PA Version in my style",
-    "players": [
-            2,
-            10
-    ],
+	"description": "Large map for shared armies, from 1v1-5v5, Setons Clutch PA Version in my style",
     "planets": [
         {
             "name": "Yolo",

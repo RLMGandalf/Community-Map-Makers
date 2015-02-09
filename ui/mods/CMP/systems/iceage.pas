@@ -1,5 +1,9 @@
 {
     "name": "IceAge",
+	"creator": "Gandalf",
+	"version": "1",
+	"date": "2015/02/08",
+	"description": "Team vs Team",
     "planets": [
         {
             "name": "Clopses Bridge",
