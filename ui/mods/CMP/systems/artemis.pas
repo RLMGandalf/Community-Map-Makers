@@ -3,7 +3,7 @@
     "creator" : "EroticBurrito",
     "version" : "1.0",
     "date" : "2015/02/09",
-    "description" : "Soon to come",
+    "description" : "10 player tropical FFA with moon",
     "planets": [
         {
             "name": "Artemis",

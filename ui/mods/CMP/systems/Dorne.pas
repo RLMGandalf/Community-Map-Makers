@@ -1,9 +1,9 @@
 {
     "name": "Dorne System",
     "creator" : "silenceoftheclams",
-    "version" : "1.0,
+    "version" : "1.0",
     "date" : "2015/02/09",
-    "description" : "Soon to come",
+    "description" : "1v1 Desert",
     "planets": [
         {
             "name": "Dorne",

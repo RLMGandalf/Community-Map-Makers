@@ -3,7 +3,7 @@
     "creator" : "EroticBurrito",
     "version" : "1.0",
     "date" : "2015/02/09",
-    "description" : "Soon to come",
+    "description" : "Amazing height map, 10 player FFA",
     "planets": [
         {
             "name": "Burrito's Ball",

@@ -1,9 +1,9 @@
 {
     "name": "Canyon Wars",
-	"creator": "Gandalf",
-	"version": "1",
-	"date": "2015/02/08",
-	"description": "8 Player FFA",
+    "creator" : "Gandalf",
+    "version" : "1.1",
+    "date" : "2015/03/25",
+    "description" : "8 Spawn FFA.",
     "planets": [
         {
             "name": "Island hop",
@@ -79,6 +79,9 @@
                         "mirrored": false,
                         "twinId": 134,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -131,6 +134,9 @@
                         "mirrored": true,
                         "twinId": 134,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -183,6 +189,9 @@
                         "mirrored": false,
                         "twinId": 135,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -235,6 +244,9 @@
                         "mirrored": true,
                         "twinId": 135,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -287,6 +299,9 @@
                         "mirrored": false,
                         "twinId": 136,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -339,6 +354,9 @@
                         "mirrored": true,
                         "twinId": 136,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -391,6 +409,9 @@
                         "mirrored": false,
                         "twinId": 137,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -443,6 +464,9 @@
                         "mirrored": true,
                         "twinId": 137,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -495,6 +519,9 @@
                         "mirrored": false,
                         "twinId": 138,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -547,6 +574,9 @@
                         "mirrored": true,
                         "twinId": 138,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -599,6 +629,9 @@
                         "mirrored": false,
                         "twinId": 139,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -651,6 +684,9 @@
                         "mirrored": true,
                         "twinId": 139,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -703,6 +739,9 @@
                         "mirrored": false,
                         "twinId": 140,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -755,6 +794,9 @@
                         "mirrored": true,
                         "twinId": 140,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -807,6 +849,9 @@
                         "mirrored": false,
                         "twinId": 141,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -859,6 +904,9 @@
                         "mirrored": true,
                         "twinId": 141,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -911,6 +959,9 @@
                         "mirrored": false,
                         "twinId": 142,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -963,6 +1014,9 @@
                         "mirrored": true,
                         "twinId": 142,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1015,6 +1069,9 @@
                         "mirrored": false,
                         "twinId": 143,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1067,6 +1124,9 @@
                         "mirrored": true,
                         "twinId": 143,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1119,6 +1179,9 @@
                         "mirrored": false,
                         "twinId": 144,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1171,6 +1234,9 @@
                         "mirrored": true,
                         "twinId": 144,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1223,6 +1289,9 @@
                         "mirrored": false,
                         "twinId": 145,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1275,6 +1344,9 @@
                         "mirrored": true,
                         "twinId": 145,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1327,6 +1399,9 @@
                         "mirrored": false,
                         "twinId": 146,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1379,6 +1454,9 @@
                         "mirrored": true,
                         "twinId": 146,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1431,6 +1509,9 @@
                         "mirrored": false,
                         "twinId": 147,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1483,6 +1564,9 @@
                         "mirrored": true,
                         "twinId": 147,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1535,6 +1619,9 @@
                         "mirrored": false,
                         "twinId": 148,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1587,6 +1674,9 @@
                         "mirrored": true,
                         "twinId": 148,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1639,6 +1729,9 @@
                         "mirrored": false,
                         "twinId": 149,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1691,6 +1784,9 @@
                         "mirrored": true,
                         "twinId": 149,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1743,6 +1839,9 @@
                         "mirrored": false,
                         "twinId": 150,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1795,6 +1894,9 @@
                         "mirrored": true,
                         "twinId": 150,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1847,6 +1949,9 @@
                         "mirrored": false,
                         "twinId": 151,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1899,6 +2004,9 @@
                         "mirrored": true,
                         "twinId": 151,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -1951,6 +2059,9 @@
                         "mirrored": false,
                         "twinId": 152,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2003,6 +2114,9 @@
                         "mirrored": true,
                         "twinId": 152,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2055,6 +2169,9 @@
                         "mirrored": false,
                         "twinId": 153,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2107,6 +2224,9 @@
                         "mirrored": true,
                         "twinId": 153,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2159,6 +2279,9 @@
                         "mirrored": false,
                         "twinId": 154,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2211,6 +2334,9 @@
                         "mirrored": true,
                         "twinId": 154,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2263,6 +2389,9 @@
                         "mirrored": false,
                         "twinId": 155,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2315,6 +2444,9 @@
                         "mirrored": true,
                         "twinId": 155,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2367,6 +2499,9 @@
                         "mirrored": false,
                         "twinId": 156,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2419,6 +2554,9 @@
                         "mirrored": true,
                         "twinId": 156,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2471,6 +2609,9 @@
                         "mirrored": false,
                         "twinId": 157,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2523,6 +2664,9 @@
                         "mirrored": true,
                         "twinId": 157,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2575,6 +2719,9 @@
                         "mirrored": false,
                         "twinId": 158,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2627,6 +2774,9 @@
                         "mirrored": true,
                         "twinId": 158,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2679,6 +2829,9 @@
                         "mirrored": false,
                         "twinId": 159,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2731,6 +2884,9 @@
                         "mirrored": true,
                         "twinId": 159,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2783,6 +2939,9 @@
                         "mirrored": false,
                         "twinId": 160,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2835,6 +2994,9 @@
                         "mirrored": true,
                         "twinId": 160,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2887,6 +3049,9 @@
                         "mirrored": false,
                         "twinId": 161,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2939,6 +3104,9 @@
                         "mirrored": true,
                         "twinId": 161,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -2991,6 +3159,9 @@
                         "mirrored": false,
                         "twinId": 162,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -3043,6 +3214,9 @@
                         "mirrored": true,
                         "twinId": 162,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -3095,6 +3269,9 @@
                         "mirrored": false,
                         "twinId": 163,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -3147,6 +3324,9 @@
                         "mirrored": true,
                         "twinId": 163,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -3199,6 +3379,9 @@
                         "mirrored": false,
                         "twinId": 164,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -3251,6 +3434,9 @@
                         "mirrored": true,
                         "twinId": 164,
                         "flooded": false,
+                        "pathable": false,
+                        "mergeable": false,
+                        "no_features": true,
                         "biomeColor": [
                             0,
                             0,
@@ -4499,6 +4685,48 @@
                         -361.52838134765625,
                         -417.350830078125,
                         229.6099090576172
+                    ]
+                ],
+                "landing_zones": [
+                    [
+                        -480.40576171875,
+                        -71.73178100585938,
+                        348.0653076171875
+                    ],
+                    [
+                        -480.40576171875,
+                        -71.73178100585938,
+                        -348.0653076171875
+                    ],
+                    [
+                        -127.8621826171875,
+                        469.7462158203125,
+                        347.0986328125
+                    ],
+                    [
+                        -127.8621826171875,
+                        469.7462158203125,
+                        -347.0986328125
+                    ],
+                    [
+                        482.6614990234375,
+                        125.115234375,
+                        333.475341796875
+                    ],
+                    [
+                        482.6614990234375,
+                        125.115234375,
+                        -333.475341796875
+                    ],
+                    [
+                        150.72360229492188,
+                        -414.7080078125,
+                        405.0682373046875
+                    ],
+                    [
+                        150.72360229492188,
+                        -414.7080078125,
+                        -405.0682373046875
                     ]
                 ]
             },
@@ -9156,48 +9384,84 @@
                     229.6099090576172
                 ]
             ],
-            "landing_zones": [
-                [
-                    -480.40576171875,
-                    -71.73178100585938,
-                    348.0653076171875
+            "landing_zones": {
+                "list": [
+                    [
+                        -480.40576171875,
+                        -71.73178100585938,
+                        348.0653076171875
+                    ],
+                    [
+                        -480.40576171875,
+                        -71.73178100585938,
+                        -348.0653076171875
+                    ],
+                    [
+                        -127.8621826171875,
+                        469.7462158203125,
+                        347.0986328125
+                    ],
+                    [
+                        -127.8621826171875,
+                        469.7462158203125,
+                        -347.0986328125
+                    ],
+                    [
+                        482.6614990234375,
+                        125.115234375,
+                        333.475341796875
+                    ],
+                    [
+                        482.6614990234375,
+                        125.115234375,
+                        -333.475341796875
+                    ],
+                    [
+                        150.72360229492188,
+                        -414.7080078125,
+                        405.0682373046875
+                    ],
+                    [
+                        150.72360229492188,
+                        -414.7080078125,
+                        -405.0682373046875
+                    ]
                 ],
-                [
-                    -480.40576171875,
-                    -71.73178100585938,
-                    -348.0653076171875
-                ],
-                [
-                    -127.8621826171875,
-                    469.7462158203125,
-                    347.0986328125
-                ],
-                [
-                    -127.8621826171875,
-                    469.7462158203125,
-                    -347.0986328125
-                ],
-                [
-                    482.6614990234375,
-                    125.115234375,
-                    333.475341796875
-                ],
-                [
-                    482.6614990234375,
-                    125.115234375,
-                    -333.475341796875
-                ],
-                [
-                    150.72360229492188,
-                    -414.7080078125,
-                    405.0682373046875
-                ],
-                [
-                    150.72360229492188,
-                    -414.7080078125,
-                    -405.0682373046875
+                "rules": [
+                    {
+                        "min": 0,
+                        "max": 10
+                    },
+                    {
+                        "min": 0,
+                        "max": 10
+                    },
+                    {
+                        "min": 0,
+                        "max": 10
+                    },
+                    {
+                        "min": 0,
+                        "max": 10
+                    },
+                    {
+                        "min": 0,
+                        "max": 10
+                    },
+                    {
+                        "min": 0,
+                        "max": 10
+                    },
+                    {
+                        "min": 0,
+                        "max": 10
+                    },
+                    {
+                        "min": 0,
+                        "max": 10
+                    }
                 ]
-            ]
+            }
         }
     ]
 }

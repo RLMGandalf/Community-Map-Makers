@@ -1,8 +1,8 @@
 {
     "name": "L@v@ C@rn@ge",
 	"creator": "Alpha2546",
-	"version": "1.0",
-	"date": "2015/02/08",
+	"version": "1.1",
+	"date": "2015/03/25",
 	"description": "2v2 - Close quarters lava arena",
     "planets": [
         {

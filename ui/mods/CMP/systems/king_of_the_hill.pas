@@ -1,7 +1,7 @@
 {
     "name": "King of the Hill",
     "creator" : "Ishytarus",
-    "version" : "1.0,
+    "version" : "1.0",
     "date" : "2015/02/09",
     "description" : "Soon to come",
     "planets": [
